@@ -1,0 +1,34 @@
+{
+  "_note": "Willow Bridge submarket -> RealPage Annual Performance submarket. Submarkets not listed fall back to the RealPage market-wide series.",
+  "mapping": {
+    "Aloha": "Aloha/West Beaverton",
+    "Beaverton": "East Beaverton",
+    "CBD": "Central Portland",
+    "Central Northeast": "Central Portland",
+    "Clark County": "Vancouver",
+    "Damascus": "Southeast Portland",
+    "Downtown Portland": "Central Portland",
+    "East Portland": "East Portland",
+    "Hillsboro": "Hillsboro",
+    "Lake Oswego": "Lake Oswego/Tualatin/Wilsonville",
+    "North Portland": "Northwest Portland",
+    "Northeast Portland": "Central Portland",
+    "Northwest Portland": "Northwest Portland",
+    "Oregon City": "Lake Oswego/Tualatin/Wilsonville",
+    "Outlying Multnomah": "Northwest Portland",
+    "Outlying Washington County": "Hillsboro",
+    "Sherwood/Tualatin": "Lake Oswego/Tualatin/Wilsonville",
+    "Southeast Portland": "Southeast Portland",
+    "Southwest Portland": "Southwest Portland/Tigard",
+    "Tigard": "Southwest Portland/Tigard",
+    "Troutdale/Gresham": "Gresham/Far East Portland",
+    "Vancouver": "Vancouver",
+    "Wilsonville": "Lake Oswego/Tualatin/Wilsonville"
+  },
+  "unmapped": [
+    "Clackamas County",
+    "Columbia County",
+    "Skamania County",
+    "Yamhill County"
+  ]
+}
